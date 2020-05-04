@@ -1,0 +1,4 @@
+En los botones del menu inicial del juego hay sonidos
+Cuando matan a un objetos despues de darle 5 tiros hace un sonido
+y cuando dispara el arma tambien suena
+Tambien tiene un soundtrack de transformers
